@@ -1,0 +1,1 @@
+For more information, follow the course notes availbe here: https://btholt.github.io/complete-intro-to-react-v6/
